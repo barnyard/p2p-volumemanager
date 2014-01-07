@@ -1,6 +1,6 @@
 # p2p-volumemanager
 
-This application allows attaching persistent storage volumes to running comput instances.
+This application allows attaching persistent storage volumes to running compute instances.
 
 ## Build
 
